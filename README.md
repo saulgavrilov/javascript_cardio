@@ -4,8 +4,9 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 
 ### Session One
 
-| Function name  | Solutions |
-| :------------- | --------: |
-| Reverse String |         6 |
-| Is Palindrome  |         4 |
-| Reverse Int    |         1 |
+| Function name      | Solutions |
+| :----------------- | --------: |
+| Reverse String     |         6 |
+| Is Palindrome      |         4 |
+| Reverse Int        |         1 |
+| Capitalize Letters |         3 |
