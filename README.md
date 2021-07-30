@@ -7,4 +7,5 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Function name  | Solutions |
 | :------------- | --------: |
 | Reverse String |         6 |
-| Is Palindrome  |         6 |
+| Is Palindrome  |         4 |
+| Reverse Int    |         1 |
