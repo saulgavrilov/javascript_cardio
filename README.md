@@ -11,3 +11,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Reverse Int        |         1 |
 | Capitalize Letters |         3 |
 | Max Character      |         1 |
+| Fizz Buzz          |         1 |
