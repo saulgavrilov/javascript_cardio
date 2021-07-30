@@ -10,3 +10,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Is Palindrome      |         4 |
 | Reverse Int        |         1 |
 | Capitalize Letters |         3 |
+| Max Character      |         1 |
