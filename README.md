@@ -7,5 +7,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Function name  | Solutions |
 | :------------- | --------: |
 | Reverse String |         6 |
-| col 2 is       |  centered |
-| zebra stripes  |  are neat |
+| Is Palindrome  |         6 |
