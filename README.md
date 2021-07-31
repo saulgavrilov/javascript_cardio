@@ -15,9 +15,10 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 
 ### Session Two
 
-| Function name | Solutions |
-| :------------ | --------: |
-| Longest Word  |         2 |
-| Chunk Array   |         2 |
-| Flatten Array |         3 |
-| Is Anagram    |         1 |
+| Function name  | Solutions |
+| :------------- | --------: |
+| Longest Word   |         2 |
+| Chunk Array    |         2 |
+| Flatten Array  |         3 |
+| Is Anagram     |         1 |
+| Letter Changes |         1 |
