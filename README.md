@@ -19,3 +19,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | :------------ | --------: |
 | Longest Word  |         2 |
 | Chunk Array   |         2 |
+| Flatten Array |         3 |
