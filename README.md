@@ -12,3 +12,9 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Capitalize Letters |         3 |
 | Max Character      |         1 |
 | Fizz Buzz          |         1 |
+
+### Session Two
+
+| Function name | Solutions |
+| :------------ | --------: |
+| Longest Word  |         2 |
