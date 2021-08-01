@@ -22,3 +22,9 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Flatten Array  |         3 |
 | Is Anagram     |         1 |
 | Letter Changes |         1 |
+
+### Session Three
+
+| Function name | Solutions |
+| :------------ | --------: |
+| Add All       |         3 |
