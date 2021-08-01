@@ -30,3 +30,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Add All          |         3 |
 | Sum All Primes   |         1 |
 | Seek And Destroy |         2 |
+| Sort By Height   |         1 |
