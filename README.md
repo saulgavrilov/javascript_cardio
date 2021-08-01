@@ -25,7 +25,8 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 
 ### Session Three
 
-| Function name  | Solutions |
-| :------------- | --------: |
-| Add All        |         3 |
-| Sum All Primes |         1 |
+| Function name    | Solutions |
+| :--------------- | --------: |
+| Add All          |         3 |
+| Sum All Primes   |         1 |
+| Seek And Destroy |         2 |
