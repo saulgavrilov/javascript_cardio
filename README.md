@@ -32,3 +32,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Seek And Destroy |         2 |
 | Sort By Height   |         1 |
 | Missing Letters  |         1 |
+| Even Odd Sums    |         1 |
