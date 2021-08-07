@@ -39,3 +39,4 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Function name  | Solutions |
 | :------------- | --------: |
 | Math Sequences |         1 |
+| Unique Values  |         3 |
