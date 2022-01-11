@@ -11,7 +11,7 @@ Intermediate whiteboard style JavaScript challenges and solutions to sharpen you
 | Reverse Int        | Return an integer in reverse                                                                                                                                                                                            |         1 |
 | Capitalize Letters | Return a string with the first letter of every word capitalized                                                                                                                                                         |         3 |
 | Max Character      | Return the character that is most common in a string                                                                                                                                                                    |         1 |
-| Fizz Buzz          | Write a program that prints all the numbers from 1 to 100. For multiples of 3, instead of the number, print "Fizz", for multiples of 5 print "Buzz". For numbers which are multiples of both 3 and 5, print "FizzBuzz". |         1 |
+| Fizz Buzz          | Write a program that prints all the numbers from 1 to 100. For multiples of 3, instead of the number, print "Fizz", for multiples of 5 print "Buzz". For numbers which are multiples of both 3 & 5, print "FizzBuzz". |         1 |
 
 ### Session Two
 
